@@ -29,14 +29,5 @@ Este projeto foi construído pela colaboração dos seguintes especialistas:
 *   **Stockfish.js**: I.A. de alto nível rodando via Web Workers.
 *   **PeerJS**: Conexão Multiplayer P2P (sem necessidade de servidor).
 *   **Vanilla CSS**: Design fluido com vmin e Glassmorphism.
-
-## 📦 Como subir para o GitHub Pages
-
-1.  Crie um novo repositório no seu GitHub.
-2.  Suba os arquivos (`index.html`, `style.css`, `game.js` e a pasta `assets/`).
-3.  Vá em **Settings > Pages**.
-4.  Em **Build and deployment**, selecione a branch `main` e a pasta `/ (root)`.
-5.  Clique em **Save** e aguarde alguns minutos para o link ficar online!
-
 ---
 *Desenvolvido com ❤️ no Studio de IA.*
